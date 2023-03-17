@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+/**
+  * main - prits alphabet
+  *
+  * Return: lowercase
+  */
+
+int main(void)
+{
+	for (i = 'a' ; 1 <= 'z' ; i++)
+		putchar(i);
+	puthchar('\n');
+	return(0);
+}
